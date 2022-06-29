@@ -1,0 +1,19 @@
+#ST: 50
+#COPY: gen/tricky_case.in
+easy same 300
+easy use_only_1_3 large
+easy same 4
+easy random
+easy use_only_1_3_or_2 small
+
+
+#ST: 50
+#COPY: gen/tricky_case_hard.in
+hard large_n_small_k
+hard same 1000
+hard large_k
+hard use_only_1_3 large
+hard same 4
+hard random
+hard use_only_1_3_or_2 small
+

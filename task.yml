@@ -1,0 +1,12 @@
+name: "beautiful_blocks"
+title: "beautiful_blocks"
+time_limit: 10000
+memory_limit: 256
+score_mode: max_subtask
+public_testcases: all 
+max_submission_number: 50
+min_submission_interval: 60
+token_mode: disabled
+primary_language: en
+infile: ""
+outfile: ""
